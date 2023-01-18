@@ -6,7 +6,7 @@ editor: visual
 👨‍🏫: Stephen Holt, Ph.D.\
 📆: 11:40 am to 1:40 pm in Husted 012\
 📧: sbholt\@albany.edu\
-🏫: Tuesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min). \
+🏫: Tuesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min).\
 ☎️: 518-442-3309
 
 ## Course Description
@@ -15,7 +15,7 @@ The RPAD 881-884 seminar series is a four-semester sequence for first- and secon
 
 ### Learning Objectives
 
-The RPAD 88X series introduces public affairs students to the principles, practices, and professional skills required for success in graduate studies, academia, and other research-intensive public affairs careers. The series has several overarching goals: 1) to familiarize students with basic norms and customs in graduate studies and the academy; 2) to help students learn what succes in graduate studies and academia typicall entails, and; 3) to aquaint students with various strategies and skills fundamental in the transition from student to independent scholars.
+The RPAD 88X series introduces public affairs students to the principles, practices, and professional skills required for success in graduate studies, academia, and other research-intensive public affairs careers. The series has several overarching goals: 1) to familiarize students with basic norms and customs in graduate studies and the academy; 2) to help students learn what success in graduate studies and academia typically entails, and; 3) to acquaint students with various strategies and skills fundamental in the transition from student to independent scholars.
 
 ### Required Text
 
@@ -46,41 +46,69 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 ## Overview of Schedule
 
 | Symbol | Meaning                                                            |
-|:----------------:|:-----------------------------------------------------|
-|   👨‍🏫   | Lecture                                                            |
+|:-------------------:|:--------------------------------------------------|
+|  👨‍🏫:   | Lecture                                                            |
 |  ⚡:   | Lightening Round with Faculty (serves as link to details)          |
 |  👜:   | Rockefeller Brown Bag                                              |
 |  📅:   | Assignment due (serves as link to details)                         |
 |  📖:   | Reading is from required text                                      |
 |  📄:   | Reading is from an article/chapter on Zotero (by author last name) |
 
-| Date  |                      All                      |                                            Year 1                                             |                                 Year 2                                 |
+| Date |                         All                         |                         Year 1                         |                          Year 2                           |
 |:----------------:|:----------------:|:----------------:|:----------------:|
-| 1/20  |                 Introductions                 |                          Approaching Your PhD <br/> :book: Chapter 5                          |               Sharing Experience <br/> :book: Chapter 2                |
-| 1/26  |                      👜                       |                                                                                               |                                                                        |
-|  9/9  |              Avoiding Plagiarism              | :page_facing_up: iThenticate <br/> :page_facing_up: Roig <br/> [:date:](#plagiarism-exercise) |       No class - Plan for [Milestones](#second-year-milestones)        |
-|  2/9  |                      👜                       |                                                                                               |                                                                        |
-| 9/23  |      [:zap:](#public-management-faculty)      |                                      Picking an Advisor                                       |              Prepping for Research <br/> :book: Chapter 6              |
-| 2/23  |                      👜                       |                                                                                               |                                                                        |
-| 10/7  |        [:zap:](#public-policy-faculty)        |                                     Giving a Presentation                                     | Giving a Presentation <br/> [:date:](#literature-review-concept-sheet) |
-|  3/9  |                      👜                       |                                                                                               |                                                                        |
-| 10/14 | [:zap:](#qualitative-and-non-profit-research) |                         [📅](#citi-human-subjects-research-training)                          |                                                                        |
-| 3/23  |                      👜                       |                                                                                               |                                                                        |
-| 11/4  |    Conferences, Associations, and Journals    |                                       :book: Chapter 10                                       |    :book: Chapter 10 <br/> [:date:](#empirical-paper-concept-sheet)    |
-|  4/6  |                      👜                       |                                                                                               |                                                                        |
-| 11/18 |               Reading research                |                                       :book: Chapter 4                                        |                            :book: Chapter 4                            |
+| 1/20 |                    Semester Plan                    |                                                        |                                                           |
+| 1/26 |                         👜                          |                                                        |                                                           |
+| 2/3  |                                                     |                    TDP instructions                    | No class - Plan for [Milestones](#second-year-milestones) |
+| 2/9  |                         👜                          |                                                        |                                                           |
+| 2/17 |                   Academic C.V.s                    |                                                        |                                                           |
+| 2/23 |                         👜                          |                                                        |                                                           |
+| 3/3  |              Websites and Social Media              |                                                        |                                                           |
+| 3/9  |                         👜                          |                                                        |                                                           |
+| 3/31 |          Peer Reviewers and Peer Reviewing          |                    [📅](#tdp): TDP                     |                                                           |
+| 3/23 |                         👜                          |                                                        |                                                           |
+| 4/14 | Assignments for Peer Reviews for second year papers |                                                        |        [📅](#draft-paper): Draft Paper and Slides         |
+| 4/6  |                         👜                          |                                                        |                                                           |
+| 4/28 |               2nd-year presentations                | Attend Presentations <br/> [📅](#questions): Questions |    Presentations <br/> [📅](#peer-review): Peer review    |
 
 ## Year 1 Assignments
 
-### TDP and Adviser Selection
+### TDP and Adviser Selection {#tdp}
+
+First year students will need to complete and submit a Tentative Degree Plan (TDP). You can find the form [here](tdp.pdf). We will also use the course matrix posted in Blackboard to create a course schedule that you will print and attach to the form when you bring it to your adviser. This must be submitted to me by **March 31st** via Blackboard.
+
+### Questions {#questions}
+
+You will be given a draft paper from a second year student. You will be tasked with preparing 3 questions that jumped out to you while reading the paper. These questions will be used to kick off the Q&A period after the presentation on the last class.
+
+### Rockefeller Brown Bag Attendance
+
+Attend all Rockefeller Brown Bag sessions.
 
 ## Year 2 Assignments
 
+### Empirical Paper or Literature Review Draft {#draft-paper}
+
+On Blackboard, before class on **April 14th**, submit your draft empirical paper (or literature review) that you will be presenting at the end of the semester and your draft slide deck.
+
+### Peer Review {#peer-review}
+
+You will each review one peer's paper and submit a referee report to them (and on Blackboard) before the last class session. You will also be tasked with preparing 3 questions for discussion after the presentation on the last class.
+
+### Rockefeller Brown Bag Attendance
+
+Attend all Rockefeller Brown Bag sessions.
+
 ## Milestones
 
-### First Year Milestones
+### First Year Milestones {#first-year-milestones}
+
+-   Select an adviser, select a concentration, and complete a TDP form.
 
 ### Second Year Milestones {#second-year-milestones}
+
+-   Prepare a manuscript draft (that can serve as an empirical paper draft) and a presentation.
+-   Concept sheets for literature review and empirical paper approved by your candidacy committee chair.
+-   Tentative timeline to completion of literature review and empirical paper worked out with candidacy committee chair.
 
 ## Class Policies
 
