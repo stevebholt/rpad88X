@@ -5,14 +5,13 @@ project:
 website:
   title: "RPAD 88X - Doctoral Professional Development Seminar"
   navbar:
+    background: primary
     left:
-      - text: "About""
-        href: index.qmd
+      - text: "About"
+        file: index.qmd
       - text: "Syllabus"
-        href: syllabus88x.qmd
-      - text: "Resources"
-        href: resources.qmd
-
+        file: syllabus88x.qmd
+      
 format:
   html:
     theme: 
