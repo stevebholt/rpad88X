@@ -46,7 +46,7 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 ## Overview of Schedule
 
 | Symbol | Meaning                                                            |
-|:-------------------:|:--------------------------------------------------|
+|:---------------------:|:------------------------------------------------|
 |  👨‍🏫:   | Lecture                                                            |
 |  ⚡:   | Lightening Round with Faculty (serves as link to details)          |
 |  👜:   | Rockefeller Brown Bag                                              |
@@ -54,21 +54,21 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 |  📖:   | Reading is from required text                                      |
 |  📄:   | Reading is from an article/chapter on Zotero (by author last name) |
 
-| Date |                         All                         |                         Year 1                         |                          Year 2                           |
+| Date |                           All                           |                         Year 1                         |                          Year 2                           |
 |:----------------:|:----------------:|:----------------:|:----------------:|
-| 1/20 |                    Semester Plan                    |                                                        |                                                           |
-| 1/26 |                         👜                          |                                                        |                                                           |
-| 2/3  |                                                     |                    TDP instructions                    | No class - Plan for [Milestones](#second-year-milestones) |
-| 2/9  |                         👜                          |                                                        |                                                           |
-| 2/17 |                   Academic C.V.s                    |                                                        |                                                           |
-| 2/23 |                         👜                          |                                                        |                                                           |
-| 3/3  |              Websites and Social Media              |                                                        |                                                           |
-| 3/9  |                         👜                          |                                                        |                                                           |
-| 3/31 |          Peer Reviewers and Peer Reviewing          |                    [📅](#tdp): TDP                     |                                                           |
-| 3/23 |                         👜                          |                                                        |                                                           |
-| 4/14 | Assignments for Peer Reviews for second year papers |                                                        |        [📅](#draft-paper): Draft Paper and Slides         |
-| 4/6  |                         👜                          |                                                        |                                                           |
-| 4/28 |               2nd-year presentations                | Attend Presentations <br/> [📅](#questions): Questions |    Presentations <br/> [📅](#peer-review): Peer review    |
+| 1/20 |                      Semester Plan                      |                                                        |                                                           |
+| 1/26 |                           👜                            |                                                        |                                                           |
+| 2/3  |                                                         |                    TDP instructions                    | No class - Plan for [Milestones](#second-year-milestones) |
+| 2/9  |                           👜                            |                                                        |                                                           |
+| 2/17 |                     Academic C.V.s                      |                                                        |                                                           |
+| 2/23 |                           👜                            |                                                        |                                                           |
+| 3/3  |                Websites and Social Media                |                                                        |                                                           |
+| 3/9  |                           👜                            |                                                        |                                                           |
+| 3/31 | [⚡](#itm): ITM <br/> Peer Reviewers and Peer Reviewing |                    [📅](#tdp): TDP                     |                                                           |
+| 3/23 |                           👜                            |                                                        |                                                           |
+| 4/14 |   Assignments for Peer Reviews for second year papers   |                                                        |        [📅](#draft-paper): Draft Paper and Slides         |
+| 4/6  |                           👜                            |                                                        |                                                           |
+| 4/28 |                 2nd-year presentations                  | Attend Presentations <br/> [📅](#questions): Questions |    Presentations <br/> [📅](#peer-review): Peer review    |
 
 ## Year 1 Assignments
 
@@ -97,6 +97,12 @@ You will each review one peer's paper and submit a referee report to them (and o
 ### Rockefeller Brown Bag Attendance
 
 Attend all Rockefeller Brown Bag sessions.
+
+## Lightning Rounds
+
+### Information Technology Management Faculty {#itm}
+
+Dr. Luis Luna-Reyes, Dr. Ramon Gil-Garcia, and Dr. Mila Gasco-Hernandez will be introducing themselves and their work
 
 ## Milestones
 
