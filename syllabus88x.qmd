@@ -46,7 +46,7 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 ## Overview of Schedule
 
 | Symbol | Meaning                                                            |
-|:---------------------:|:------------------------------------------------|
+|:----------------------:|:-----------------------------------------------|
 |  👨‍🏫:   | Lecture                                                            |
 |  ⚡:   | Lightening Round with Faculty (serves as link to details)          |
 |  👜:   | Rockefeller Brown Bag                                              |
@@ -132,7 +132,7 @@ Dr. Luis Luna-Reyes, Dr. Ramon Gil-Garcia, and Dr. Mila Gasco-Hernandez will be 
 -   Students with special physical and/or learning needs will be accommodated. Please notify the Disabilities Office and me as soon as possible so that reasonable accommodations can be made.
 
 ::: callout-important
-**NOTE:** Throughout the semester, I may add or subtract readings as needed to adjust the course according to your progress, engagement, and interests.
+Throughout the semester, I may add or subtract readings as needed to adjust the course according to your progress, engagement, and interests.
 :::
 
 ### Academic integrity
@@ -165,7 +165,9 @@ Confidential support and guidance can be found through the Counseling Center (51
 
 Sexual offenses can be reported non-confidentially to the Title IX Coordinator within The Office for Equity and Compliance (518-442-3800, [or online](https://www.albany.edu/equity-compliance/), Building 25, Room 117) and/or the University Police Department (518-442-3131, [or online](http://police.albany.edu/)).
 
-**PLEASE NOTE:** Faculty members are considered "responsible employees" at the University at Albany, meaning that they are required to report all known relevant details about a complaint of sexual violence to the University's Title IX Coordinator, including names of anyone involved or present, date, time, and location. {: .notice--danger}
+:::{.callout-important}
+**PLEASE NOTE:** Faculty members are considered "responsible employees" at the University at Albany, meaning that they are required to report all known relevant details about a complaint of sexual violence to the University's Title IX Coordinator, including names of anyone involved or present, date, time, and location.
+:::
 
 In case of an emergency, please call 911.
 
