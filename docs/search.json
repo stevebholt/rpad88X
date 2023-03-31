@@ -32,7 +32,7 @@
     "href": "syllabus88x.html#year-1-assignments",
     "title": "Syllabus",
     "section": "Year 1 Assignments",
-    "text": "Year 1 Assignments\n\nTDP and Adviser Selection\nFirst year students will need to complete and submit a Tentative Degree Plan (TDP). You can find the form here. We will also use the course matrix posted in Blackboard to create a course schedule that you will print and attach to the form when you bring it to your adviser. This must be submitted to me by March 31st via Blackboard.\n\n\nQuestions\nYou will be given a draft paper from a second year student. You will be tasked with preparing 3 questions that jumped out to you while reading the paper. These questions will be used to kick off the Q&A period after the presentation on the last class.\n\n\nRockefeller Brown Bag Attendance\nAttend all Rockefeller Brown Bag sessions."
+    "text": "Year 1 Assignments\n\nTDP and Adviser Selection\nFirst year students will need to complete and submit a Tentative Degree Plan (TDP). You can find the form here. We will also use the course matrix posted in Blackboard to create a course schedule that you will print and attach to the form when you bring it to your adviser. This must be submitted to me by March 31st via Blackboard.\nYou can find an example of the two-year schedule here to give you a sense of how classes cycle. However, your advisor will be the primary person helping with fleshing out your planned course schedule.\n\n\n\n\n\n\nNote\n\n\n\nThe courses you outline in your TDP is a rough guideline, but if the schedule of courses changes and you have to shift, that is okay. Your TDP is a tentative plan, not a set-in-stone requirement.\n\n\n\n\nQuestions\nYou will be given a draft paper from a second year student. You will be tasked with preparing 3 questions that jumped out to you while reading the paper. These questions will be used to kick off the Q&A period after the presentation on the last class.\n\n\nRockefeller Brown Bag Attendance\nAttend all Rockefeller Brown Bag sessions."
   },
   {
     "objectID": "syllabus88x.html#year-2-assignments",
@@ -75,5 +75,40 @@
     "title": "Syllabus",
     "section": "Lightning Rounds",
     "text": "Lightning Rounds\n\nInformation Technology Management Faculty\nDr. Luis Luna-Reyes, Dr. Ramon Gil-Garcia, and Dr. Mila Gasco-Hernandez will be introducing themselves and their work"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Links to Data",
+    "section": "",
+    "text": "To give you a starting point in your hunt for useful data in your research, consider this list of potential datasources.\n\nNBER Public Use Data Archive\nIPUMS Data Center - Census Microdata\nCommon Core of Data - NCES School Data\nAmerican Time Use Survey\nATUS - IPUMS Version\nFederal Employee Viewpoint Survey\nNational Longitudinal Survey of Youth\nICPSR Replication Data Reesitory\nAmerican Community Survey\nCDC National Health Interview Survey\nEconomic Development Data\nProject STAR Data\nIPEDS Data - Higher Education Data\nEducation Longitudinal Study of 2002\nICMA Data on Local Government Managers\nCensus of Governments Data\nNY Federal Reserve Microdata\nBureau of Economic Analysis Data\nUrban Institute State and Local Finance Data\nBureau of Labor Statistics Employment Data\nNYC Open Data\n\nFor students interested in education research, I also have access to longitudinal data for multiple cohorts of secondary and elementary school national cohorts. Reach out and we can discuss collaboration."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "I will post general resources for your doctoral studies here over time. Occassionally, this will mean posts that lay out tips on presentations, templates for slides or CVs, or links to data that might be useful in a variety of ways. I will occassionally update this over time and welcome requests or links to any data you find interesting or useful to add to the page."
+  },
+  {
+    "objectID": "templates.html",
+    "href": "templates.html",
+    "title": "Templates",
+    "section": "",
+    "text": "There are a variety of approaches to creating a clean, polished CV, but in general, I find it useful to work from a template that takes care of formatting for me and simply updating content as I do things. Norms regarding CVs differ across disciplines and fields, but in general a good CV will draw attention to the most important pieces of your record at or near the top of the CV. For academics and academic positions, this is generally your research with a preference order of 1) published work, 2) publicly available working papers, and 3) works in progress. From there, you will want to have a section dedicated to awards and grants (a signal of research productivity and recognized quality), conference presentations (a signal of active research community participation), teaching, and other service work. Some academics prefer to list everything with many details. I personally prefer an approach that provides the necessary information with as little clutter or filler as possible.\n\n\nI used a fairly common LaTeX template for my CV. You need the class style file and the tex file itself. To use this for your own CV, simply be sure you have the style file in the same directory as the tex file and use the XeLaTeX compiler when compiling the pdf. You can do this locally on your computer (I use TexMaker as my Tex Compiler) or using Overleaf in a web browser."
+  },
+  {
+    "objectID": "templates.html#slides",
+    "href": "templates.html#slides",
+    "title": "Templates",
+    "section": "Slides",
+    "text": "Slides\nIn general, your goal in presentations is to ensure that your audience is focused primarily on you and what you are saying. As a result, you don’t want your slides to be overly wordy, convoluted, or distracting in any way; they should complement you, not replace you. The best presentations generally come out of repetition, practice, and depth of knowledge of the topic of the talk."
+  },
+  {
+    "objectID": "templates.html#beamer-template",
+    "href": "templates.html#beamer-template",
+    "title": "Templates",
+    "section": "Beamer Template",
+    "text": "Beamer Template\nFor most of my presentations, I use Beamer (a slide-deck format that uses the LaTeX language) and you can find the template here with a ReadMe that provides a general overview for using the template. Here’s an example of a conference presentation I gave using this template.\nPros to using Beamer:\n➕ Quantitative scholars generally find writing out math easier in LaTeX, although Microsoft has adopted LaTeX math language into their services now I believe.\n➕ When outputting tables from Stata or R, coding formatting into a tex file that can be copied directly for clean embedding into a presentation is trivially easy.\n➕ The slides are always polished, clean, and make good use of screen real-estate.\n➕ PDF output means the slides are less reliant on specific software on a given projector setup.\nCons to using Beamer:\n➖ Can take some getting used to and early use is less efficient and more fiddly than using PowerPoint.\n➖ You have to learn some coding and sometimes slide formatting itself can be onerous, especially the first time you do something.\n➖ Can be a time sink if you let it."
   }
 ]

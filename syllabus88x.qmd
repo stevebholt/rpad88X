@@ -76,6 +76,12 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 
 First year students will need to complete and submit a Tentative Degree Plan (TDP). You can find the form [here](tdp.pdf). We will also use the course matrix posted in Blackboard to create a course schedule that you will print and attach to the form when you bring it to your adviser. This must be submitted to me by **March 31st** via Blackboard.
 
+You can find an example of the two-year schedule [here](schedule_2223.xlsx) to give you a sense of how classes cycle. However, your advisor will be the primary person helping with fleshing out your planned course schedule.
+
+:::{.callout-note}
+The courses you outline in your TDP is a rough guideline, but if the schedule of courses changes and you have to shift, that is okay. Your TDP is a tentative plan, not a set-in-stone requirement.
+:::
+
 ### Questions {#questions}
 
 You will be given a draft paper from a second year student. You will be tasked with preparing 3 questions that jumped out to you while reading the paper. These questions will be used to kick off the Q&A period after the presentation on the last class.

@@ -1,0 +1,32 @@
+---
+title: "Templates"
+---
+
+## C.V.s
+
+There are a variety of approaches to creating a clean, polished CV, but in general, I find it useful to work from a template that takes care of formatting for me and simply updating content as I do things. Norms regarding CVs differ across disciplines and fields, but in general a good CV will draw attention to the most important pieces of your record at or near the top of the CV. For academics and academic positions, this is generally your research with a preference order of 1) published work, 2) publicly available working papers, and 3) works in progress. From there, you will want to have a section dedicated to awards and grants (a signal of research productivity and recognized quality), conference presentations (a signal of active research community participation), teaching, and other service work. Some academics prefer to list everything with many details. I personally prefer an approach that provides the necessary information with as little clutter or filler as possible.
+
+### LaTeX template
+
+I used a fairly common LaTeX template for my CV. You need the [class style file](res.cls) and the [tex file itself](stevebholt_cv.tex). To use this for your own CV, simply be sure you have the style file in the same directory as the tex file and use the XeLaTeX compiler when compiling the pdf. You can do this locally on your computer (I use [TexMaker](https://www.xm1math.net/texmaker/) as my Tex Compiler) or using [Overleaf](https://www.overleaf.com/) in a web browser.
+
+## Slides
+
+In general, your goal in presentations is to ensure that your audience is focused primarily on you and what you are saying. As a result, you don't want your slides to be overly wordy, convoluted, or distracting in any way; they should complement you, not replace you. The best presentations generally come out of repetition, practice, and depth of knowledge of the topic of the talk.
+
+## Beamer Template
+
+For most of my presentations, I use Beamer (a slide-deck format that uses the LaTeX language) and you can find the template [here](https://github.com/stevebholt/rock_college_slides) with a ReadMe that provides a general overview for using the template. [Here's](aefp_slides.pdf) an example of a conference presentation I gave using this template. 
+
+Pros to using Beamer:
+
+➕ Quantitative scholars generally find writing out math easier in LaTeX, although Microsoft has adopted LaTeX math language into their services now I believe. \
+➕ When outputting tables from Stata or R, coding formatting into a tex file that can be copied directly for clean embedding into a presentation is trivially easy. \
+➕ The slides are always polished, clean, and make good use of screen real-estate.\
+➕ PDF output means the slides are less reliant on specific software on a given projector setup.
+
+Cons to using Beamer:
+
+➖ Can take some getting used to and early use is less efficient and more fiddly than using PowerPoint.\
+➖ You have to learn some coding and sometimes slide formatting itself can be onerous, especially the first time you do something.\
+➖ Can be a time sink if you let it.

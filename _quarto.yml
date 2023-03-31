@@ -11,7 +11,22 @@ website:
         file: index.qmd
       - text: "Syllabus"
         file: syllabus88x.qmd
-      
+      - text: "Resources"
+        file: resources.qmd
+        
+  sidebar: 
+    - title: "Home"
+      style: "docked"
+      search: true
+      contents: 
+        - href: index.qmd
+        
+    - title: "Resources"
+      contents: 
+        - href: resources.qmd
+        - href: data.qmd
+        - href: templates.qmd
+        
 format:
   html:
     theme: 
