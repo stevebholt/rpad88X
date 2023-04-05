@@ -66,8 +66,9 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 | 3/9  |                           👜                            |                                                        |                                                           |
 | 3/31 | [⚡](#itm): ITM <br/> Peer Reviewers and Peer Reviewing |                    [📅](#tdp): TDP                     |                                                           |
 | 3/23 |                           👜                            |                                                        |                                                           |
-| 4/14 |   Assignments for Peer Reviews for second year papers   |                                                        |        [📅](#draft-paper): Draft Paper and Slides         |
 | 4/6  |                           👜                            |                                                        |                                                           |
+| 4/14 |   Assignments for Peer Reviews for second year papers   |                   [📅](#tdp): TDP Final Due to Erika <br/> [📅](#annual-assessment1): Annual Assessment Final Due to Erika    |        [📅](#draft-paper): Draft Paper and Slides  <br/>   [📅](#annual-assessment2): Annual Assessment Final Due to Erika      |
+| 4/21 |                 2nd-year practice presentations                  |  |       |
 | 4/28 |                 2nd-year presentations                  | Attend Presentations <br/> [📅](#questions): Questions |    Presentations <br/> [📅](#peer-review): Peer review    |
 
 ## Year 1 Assignments
@@ -76,11 +77,21 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 
 First year students will need to complete and submit a Tentative Degree Plan (TDP). You can find the form [here](tdp.pdf). We will also use the course matrix posted in Blackboard to create a course schedule that you will print and attach to the form when you bring it to your adviser. This must be submitted to me by **March 31st** via Blackboard.
 
-You can find an example of the two-year schedule [here](schedule_2223.xlsx) to give you a sense of how classes cycle. However, your advisor will be the primary person helping with fleshing out your planned course schedule.
+After submitting on Blackboard, send your TDP that has been approved and signed by your adviser to your concentration chair (Lucy Sorensen for Public Policy, Mitch Abolafia for Public Management, and Mikhail Yvonchik for Public Finance). Once they approve and sign it, send the final copy to Erika Martin.
+
+:::{.callout-important}
+Do not wait until the last minute to send this to your concentration chair so that you have enough time to get it to Erika Martin before the April 14th deadline.
+:::
+
+You can find an example of the two-year schedule [here](schedule_2223.xlsx) to give you a sense of how classes cycle. However, your adviser will be the primary person helping with fleshing out your planned course schedule.
 
 :::{.callout-note}
 The courses you outline in your TDP is a rough guideline, but if the schedule of courses changes and you have to shift, that is okay. Your TDP is a tentative plan, not a set-in-stone requirement.
 :::
+
+### Annual Assessment {#annual-assessment1}
+
+You will need to complete your [Annual Assessment report](PhDStudentAnnualAssessmentForm.docx), discuss the completed form with your advisor, and then email the completed form to Erika Martin before April 15th. Submit the form even if some milestones that should be completed are still in progress. You can email Erika later to update her on milestones completed after the April 15th deadline.
 
 ### Questions {#questions}
 
@@ -91,6 +102,14 @@ You will be given a draft paper from a second year student. You will be tasked w
 Attend all Rockefeller Brown Bag sessions.
 
 ## Year 2 Assignments
+
+### Annual Assessment {#annual-assessment2}
+
+You will need to complete your [Annual Assessment report](PhDStudentAnnualAssessmentForm.docx), discuss the completed form with your advisor, and then email the completed form to Erika Martin before April 15th. Submit the form even if some milestones that should be completed are still in progress. You can email Erika later to update her on milestones completed after the April 15th deadline. You will need to add two committee members on this form to finalize your candidacy committee.
+
+:::{.callout-tip}
+Remember that your candidacy committee will, in most cases, be your dissertation committee. You should think about the construction of the committee along X dimensions: 1) professional networks for the job market, 2) content or methodological expertise for helping you refine your project, and 3) cohesive fit with your chair and other members. Please review the chapter on assembling committees in the recommended text for the course (*A Field Guide to Grad School* by Jessica McCrory Calarco) as you consider your committee composition.
+:::
 
 ### Empirical Paper or Literature Review Draft {#draft-paper}
 
