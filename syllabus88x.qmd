@@ -4,7 +4,7 @@ editor: visual
 ---
 
 👨‍🏫: Stephen Holt, Ph.D.\
-📆: 10:00 am to 12:00 pm in Husted 012\
+📆: 10:00 am to 12:00 pm in Husted 012; 8/25, 9/9, 9/22, 10/6, 10/20, 11/3, 11/17\
 📧: sbholt\@albany.edu\
 🏫: Wednesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min).\
 ☎️: 518-442-3309
@@ -72,7 +72,7 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 
 ## Year 1 Assignments
 
-### Plagiarism Exercise {##plagiarism-exercise}
+### Plagiarism Exercise {#plagiarism-exercise}
 
 
 ### Citi Human Subjects Research Training {#citi-human-subjects-research-training}
