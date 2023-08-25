@@ -4,9 +4,9 @@ editor: visual
 ---
 
 👨‍🏫: Stephen Holt, Ph.D.\
-📆: 11:40 am to 1:40 pm in Husted 012\
+📆: 10:00 am to 12:00 pm in Husted 012\
 📧: sbholt\@albany.edu\
-🏫: Tuesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min).\
+🏫: Wednesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min).\
 ☎️: 518-442-3309
 
 ## Course Description
@@ -56,68 +56,36 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 
 | Date |                           All                           |                         Year 1                         |                          Year 2                           |
 |:----------------:|:----------------:|:----------------:|:----------------:|
-| 1/20 |                      Semester Plan                      |                                                        |                                                           |
-| 1/26 |                           👜                            |                                                        |                                                           |
-| 2/3  |                                                         |                    TDP instructions                    | No class - Plan for [Milestones](#second-year-milestones) |
-| 2/9  |                           👜                            |                                                        |                                                           |
-| 2/17 |                     Academic C.V.s                      |                                                        |                                                           |
-| 2/23 |                           👜                            |                                                        |                                                           |
-| 3/3  |                Websites and Social Media                |                                                        |                                                           |
-| 3/9  |                           👜                            |                                                        |                                                           |
-| 3/31 | [⚡](#itm): ITM <br/> Peer Reviewers and Peer Reviewing |                    [📅](#tdp): TDP                     |                                                           |
-| 3/23 |                           👜                            |                                                        |                                                           |
-| 4/6  |                           👜                            |                                                        |                                                           |
-| 4/14 |   Assignments for Peer Reviews for second year papers   |                   [📅](#tdp): TDP Final Due to Erika <br/> [📅](#annual-assessment1): Annual Assessment Final Due to Erika    |        [📅](#draft-paper): Draft Paper and Slides  <br/>   [📅](#annual-assessment2): Annual Assessment Final Due to Erika      |
-| 4/21 |                 2nd-year practice presentations                  |  |       |
-| 4/28 |                 2nd-year presentations                  | Attend Presentations <br/> [📅](#questions): Questions |    Presentations <br/> [📅](#peer-review): Peer review    |
+| 8/25 |                      Introductions                      |   Approaching Your PhD <br/> 📖 Chapter 5                                                      |   Sharing Experience <br/>    📖 Chapter 2           |
+| 9/7 |                           👜                            |                                                        |                                                           |
+| 9/9  |                 Avoiding Plagiarism                                        |                   📄 iThenticate <br/> 📄 Roig <br/> [📅](#plagiarism-exercise)                    | No class - Plan for [Milestones](#second-year-milestones) |
+| 9/21  |                           👜                            |                                                        |                                                           |
+| 9/22 |                                          |                              Picking an Advisor                          |                    Prepping for Research <br/>   📖 Chapter 6                                     |
+| 10/5 |                           👜                            |                                                        |                                                           |
+| 10/6  |                               |            Giving a Presentation           |    Giving a Presentation <br/>    [📅](#literature-review-concept-sheet): Lit Review Concept Sheet                                                     |
+| 10/19  |                           👜                            |                                                        |                                                           |
+| 10/20 |      |                    [📅](#citi-human-subjects-research-training): Human Subjects Training                     |                                                           |
+| 11/2 |                           👜                            |                                                        |                                                           |
+| 11/3  |                       Conferences, Associations, and Journals              |     📖 Chapter 10           |   📖 Chapter 10 <br/> [📅](#empirical-paper-concept-sheet): Empirical Paper Concept Sheet                                                        |
+| 11/16  |                           👜                            |                                                        |                                                           |
+| 11/17  |                           Reading research                            |         📖 Chapter 4                                               |          📖 Chapter 4                                                 |
 
 ## Year 1 Assignments
 
-### TDP and Adviser Selection {#tdp}
+### Plagiarism Exercise {##plagiarism-exercise}
 
-First year students will need to complete and submit a Tentative Degree Plan (TDP). You can find the form [here](tdp.pdf). We will also use the course matrix posted in Blackboard to create a course schedule that you will print and attach to the form when you bring it to your adviser. This must be submitted to me by **March 31st** via Blackboard.
 
-After submitting on Blackboard, send your TDP that has been approved and signed by your adviser to your concentration chair (Lucy Sorensen for Public Policy, Mitch Abolafia for Public Management, and Mikhail Yvonchik for Public Finance). Once they approve and sign it, send the final copy to Erika Martin.
-
-:::{.callout-important}
-Do not wait until the last minute to send this to your concentration chair so that you have enough time to get it to Erika Martin before the April 14th deadline.
-:::
-
-You can find an example of the two-year schedule [here](schedule_2223.xlsx) to give you a sense of how classes cycle. However, your adviser will be the primary person helping with fleshing out your planned course schedule.
-
-:::{.callout-note}
-The courses you outline in your TDP is a rough guideline, but if the schedule of courses changes and you have to shift, that is okay. Your TDP is a tentative plan, not a set-in-stone requirement.
-:::
-
-### Annual Assessment {#annual-assessment1}
-
-You will need to complete your [Annual Assessment report](PhDStudentAnnualAssessmentForm.docx), discuss the completed form with your advisor, and then email the completed form to Erika Martin before April 15th. Submit the form even if some milestones that should be completed are still in progress. You can email Erika later to update her on milestones completed after the April 15th deadline.
-
-### Questions {#questions}
-
-You will be given a draft paper from a second year student. You will be tasked with preparing 3 questions that jumped out to you while reading the paper. These questions will be used to kick off the Q&A period after the presentation on the last class.
+### Citi Human Subjects Research Training {#citi-human-subjects-research-training}
+Complete [the Citi Human Subjects Research course](https://www.albany.edu/orrc/irb-training.php) and submit your certificate via the link in Brightspace. Follow the instructions in the link to create a login and complete the course.
 
 ### Rockefeller Brown Bag Attendance
 
 Attend all Rockefeller Brown Bag sessions.
 
 ## Year 2 Assignments
+### Literature review concept sheet
 
-### Annual Assessment {#annual-assessment2}
-
-You will need to complete your [Annual Assessment report](PhDStudentAnnualAssessmentForm.docx), discuss the completed form with your advisor, and then email the completed form to Erika Martin before April 15th. Submit the form even if some milestones that should be completed are still in progress. You can email Erika later to update her on milestones completed after the April 15th deadline. You will need to add two committee members on this form to finalize your candidacy committee.
-
-:::{.callout-tip}
-Remember that your candidacy committee will, in most cases, be your dissertation committee. You should think about the construction of the committee along X dimensions: 1) professional networks for the job market, 2) content or methodological expertise for helping you refine your project, and 3) cohesive fit with your chair and other members. Please review the chapter on assembling committees in the recommended text for the course (*A Field Guide to Grad School* by Jessica McCrory Calarco) as you consider your committee composition.
-:::
-
-### Empirical Paper or Literature Review Draft {#draft-paper}
-
-On Blackboard, before class on **April 14th**, submit your draft empirical paper (or literature review) that you will be presenting at the end of the semester and your draft slide deck.
-
-### Peer Review {#peer-review}
-
-You will each review one peer's paper and submit a referee report to them (and on Blackboard) before the last class session. You will also be tasked with preparing 3 questions for discussion after the presentation on the last class.
+### Empirical Paper concept sheet
 
 ### Rockefeller Brown Bag Attendance
 
@@ -125,21 +93,19 @@ Attend all Rockefeller Brown Bag sessions.
 
 ## Lightning Rounds
 
-### Information Technology Management Faculty {#itm}
-
-Dr. Luis Luna-Reyes, Dr. Ramon Gil-Garcia, and Dr. Mila Gasco-Hernandez will be introducing themselves and their work
-
 ## Milestones
 
 ### First Year Milestones {#first-year-milestones}
 
--   Select an adviser, select a concentration, and complete a TDP form.
+- Begin thinking about an adviser
+- Do CITI Training
+- Do plagiarism exercise
 
 ### Second Year Milestones {#second-year-milestones}
 
--   Prepare a manuscript draft (that can serve as an empirical paper draft) and a presentation.
--   Concept sheets for literature review and empirical paper approved by your candidacy committee chair.
--   Tentative timeline to completion of literature review and empirical paper worked out with candidacy committee chair.
+-  Plan your literature review and presentation timeline
+-  Write and submit literature review and empirical paper concept sheets to committee chair
+
 
 ## Class Policies
 
