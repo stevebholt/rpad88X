@@ -4,7 +4,7 @@ editor: visual
 ---
 
 👨‍🏫: Stephen Holt, Ph.D.\
-📆: 10:00 am to 12:00 pm in Husted 012; 8/25, 9/9, 9/22, 10/6, 10/20, 11/3, 11/17\
+📆: 10:00 am to 12:00 pm in Husted 012; 8/25, 9/8, 9/22, 10/6, 10/20, 11/3, 11/17\
 📧: sbholt\@albany.edu\
 🏫: Wednesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min).\
 ☎️: 518-442-3309
@@ -58,22 +58,22 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 |:----------------:|:----------------:|:----------------:|:----------------:|
 | 8/25 |                      Introductions                      |   Approaching Your PhD <br/> 📖 Chapter 5                                                      |   Sharing Experience <br/>    📖 Chapter 2           |
 | 9/7 |                           👜                            |                                                        |                                                           |
-| 9/9  |                 Avoiding Plagiarism                                        |                   📄 iThenticate <br/> 📄 Roig <br/> [📅](#plagiarism-exercise)                    | No class - Plan for [Milestones](#second-year-milestones) |
+| 9/8  |                 Avoiding Plagiarism                                        |                   📄 iThenticate <br/> 📄 Roig <br/> [📅](#plagiarism-exercise)                    | No class - Plan for [Milestones](#second-year-milestones) |
 | 9/21  |                           👜                            |                                                        |                                                           |
 | 9/22 |                                          |                              Picking an Advisor                          |                    Prepping for Research <br/>   📖 Chapter 6                                     |
 | 10/5 |                           👜                            |                                                        |                                                           |
-| 10/6  |                               |            Giving a Presentation           |    Giving a Presentation <br/>    [📅](#literature-review-concept-sheet): Lit Review Concept Sheet                                                     |
+| 10/6  |             [⚡](#public-management)           |            Giving a Presentation           |    Giving a Presentation <br/>    [📅](#literature-review-concept-sheet): Lit Review Concept Sheet                                                     |
 | 10/19  |                           👜                            |                                                        |                                                           |
-| 10/20 |      |                    [📅](#citi-human-subjects-research-training): Human Subjects Training                     |                                                           |
+| 10/20 |   [⚡](#non-profit)   |                    [📅](#citi-human-subjects-research-training): Human Subjects Training                     |                                                           |
 | 11/2 |                           👜                            |                                                        |                                                           |
-| 11/3  |                       Conferences, Associations, and Journals              |     📖 Chapter 10           |   📖 Chapter 10 <br/> [📅](#empirical-paper-concept-sheet): Empirical Paper Concept Sheet                                                        |
+| 11/3  |         [⚡](#public-policy)   <br/>              Conferences, Associations, and Journals              |     📖 Chapter 10           |   📖 Chapter 10 <br/> [📅](#empirical-paper-concept-sheet): Empirical Paper Concept Sheet                                                        |
 | 11/16  |                           👜                            |                                                        |                                                           |
 | 11/17  |                           Reading research                            |         📖 Chapter 4                                               |          📖 Chapter 4                                                 |
 
 ## Year 1 Assignments
 
 ### Plagiarism Exercise {#plagiarism-exercise}
-
+Posted to Brightspace.
 
 ### Citi Human Subjects Research Training {#citi-human-subjects-research-training}
 Complete [the Citi Human Subjects Research course](https://www.albany.edu/orrc/irb-training.php) and submit your certificate via the link in Brightspace. Follow the instructions in the link to create a login and complete the course.
@@ -92,6 +92,15 @@ Attend all Rockefeller Brown Bag sessions.
 Attend all Rockefeller Brown Bag sessions.
 
 ## Lightning Rounds
+
+### Public Management Lightning Round {#public-management}
+Edmund Stazyk, Ellen Rubin, Hongseok Lee, and Kayla Schwoerer will speak to the class about public management research, their work, and their advising.
+
+### Public Policy Lightning Round {#public-policy}
+Lucy Sorensen, Mimi Lyon, Shawn Bushway, Erika Martin, and Ashley Fox will speak to the class about policy research, their work, and their advising.
+
+### Non-Profit Lightning Round {#non-profit}
+Susan Appe, Juennifer Dodge, and Bo Li will speak to the class about non-profit research, qualitiative approaches to research, and their advising.
 
 ## Milestones
 
